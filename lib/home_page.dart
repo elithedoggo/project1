@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                       child: Image.asset("assets/images/real_icon.jpeg",),),
 
                     title: const Text('MY플레이스',
-                        style: TextStyle(color: Colors.white,
+                        style: TextStyle(color: Colors.black,
                             fontWeight: FontWeight.w400
                         ))
                 ),
